@@ -1,0 +1,7 @@
+id   -    BIGINT -  PRIMARY_KEY
+marca -  VARCHAR(50)  -  NOT NULL
+prezzo - SMALLINT - NOT NULL
+km  -  SMALLINT - NOT NULL
+carburante - VARCHAR(50) - NOT NULL
+colore  - VARCHAR(50) - NOT NULL
+cambio  - VARCHAR(50) - NOT NULL
